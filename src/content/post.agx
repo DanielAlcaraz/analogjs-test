@@ -1,0 +1,11 @@
+---
+title: Hello World
+slug: hello
+---
+
+<script lang="ts">
+  // src/content/post.agx
+  const name = 'Analog';
+</script>
+
+<template lang="md"> My First Post on {{ name }} </template>
